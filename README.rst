@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/RobinL/python_package_template.svg?branch=dev
-    :target: https://travis-ci.org/RobinL/python_package_template
+.. image:: https://travis-ci.org/RobinL/python_package_test_rl.svg?branch=dev
+    :target: https://travis-ci.org/RobinL/python_package_test_rl
 
 .. image:: https://codecov.io/gh/RobinL/python_package_test_rl/branch/dev/graph/badge.svg
   :target: https://codecov.io/gh/RobinL/python_package_test_rl
